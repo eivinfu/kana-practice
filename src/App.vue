@@ -28,7 +28,9 @@ export default {
       wrong: 0,
     }
   },
-  props: ['value'],
+  props: {
+    status: String
+  },
   methods: {
     nextKana: function() {
       this.index === hiragana.length ? this.index = 0 : this.index++
@@ -40,8 +42,7 @@ export default {
     updateValue: function(value) {
       if (value === this.kana.romaji) {
         this.nextKana()
-        this.$emit('input', '')
-        return
+        return this.$emit('input', '')
       } else if (value.length === this.kana.romaji.length) {
         this.showTip = true
         return this.$emit('input', value)
