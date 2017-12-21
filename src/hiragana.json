@@ -5,10 +5,7 @@
     "group": "Ø",
     "order": "a",
     "romaji": "a",
-    "kana": "あ",
-    "unicode": 12354,
-    "utf-8": 227129130,
-    "numeric": "&#12354;"
+    "kana": "あ"
   },
   {
     "syllabary": "hiragana",
@@ -16,10 +13,7 @@
     "group": "Ø",
     "order": "i",
     "romaji": "i",
-    "kana": "い",
-    "unicode": 12356,
-    "utf-8": 227129132,
-    "numeric": "&#12356;"
+    "kana": "い"
   },
   {
     "syllabary": "hiragana",
@@ -27,10 +21,7 @@
     "group": "Ø",
     "order": "u",
     "romaji": "u",
-    "kana": "う",
-    "unicode": 12358,
-    "utf-8": 227129134,
-    "numeric": "&#12358;"
+    "kana": "う"
   },
   {
     "syllabary": "hiragana",
@@ -38,10 +29,7 @@
     "group": "Ø",
     "order": "e",
     "romaji": "e",
-    "kana": "え",
-    "unicode": 12360,
-    "utf-8": 227129136,
-    "numeric": "&#12360;"
+    "kana": "え"
   },
   {
     "syllabary": "hiragana",
@@ -49,10 +37,7 @@
     "group": "Ø",
     "order": "o",
     "romaji": "o",
-    "kana": "お",
-    "unicode": 12362,
-    "utf-8": 227129138,
-    "numeric": "&#12362;"
+    "kana": "お"
   },
   {
     "syllabary": "hiragana",
@@ -60,10 +45,7 @@
     "group": "K",
     "order": "a",
     "romaji": "ka",
-    "kana": "か",
-    "unicode": 12363,
-    "utf-8": 227129139,
-    "numeric": "&#12363;"
+    "kana": "か"
   },
   {
     "syllabary": "hiragana",
@@ -71,10 +53,7 @@
     "group": "K",
     "order": "i",
     "romaji": "ki",
-    "kana": "き",
-    "unicode": 12365,
-    "utf-8": 227129141,
-    "numeric": "&#12365;"
+    "kana": "き"
   },
   {
     "syllabary": "hiragana",
@@ -82,10 +61,7 @@
     "group": "K",
     "order": "u",
     "romaji": "ku",
-    "kana": "く",
-    "unicode": 12367,
-    "utf-8": 227129143,
-    "numeric": "&#12367;"
+    "kana": "く"
   },
   {
     "syllabary": "hiragana",
@@ -93,10 +69,7 @@
     "group": "K",
     "order": "e",
     "romaji": "ke",
-    "kana": "け",
-    "unicode": 12369,
-    "utf-8": 227129145,
-    "numeric": "&#12369;"
+    "kana": "け"
   },
   {
     "syllabary": "hiragana",
@@ -104,10 +77,7 @@
     "group": "K",
     "order": "o",
     "romaji": "ko",
-    "kana": "こ",
-    "unicode": 12371,
-    "utf-8": 227129147,
-    "numeric": "&#12371;"
+    "kana": "こ"
   },
   {
     "syllabary": "hiragana",
@@ -115,10 +85,7 @@
     "group": "S",
     "order": "a",
     "romaji": "sa",
-    "kana": "さ",
-    "unicode": 12373,
-    "utf-8": 227129149,
-    "numeric": "&#12373;"
+    "kana": "さ"
   },
   {
     "syllabary": "hiragana",
@@ -126,10 +93,7 @@
     "group": "S",
     "order": "i",
     "romaji": "shi",
-    "kana": "し",
-    "unicode": 12375,
-    "utf-8": 227129151,
-    "numeric": "&#12375;"
+    "kana": "し"
   },
   {
     "syllabary": "hiragana",
@@ -137,10 +101,7 @@
     "group": "S",
     "order": "u",
     "romaji": "su",
-    "kana": "す",
-    "unicode": 12377,
-    "utf-8": 227129153,
-    "numeric": "&#12377;"
+    "kana": "す"
   },
   {
     "syllabary": "hiragana",
@@ -148,10 +109,7 @@
     "group": "S",
     "order": "e",
     "romaji": "se",
-    "kana": "せ",
-    "unicode": 12379,
-    "utf-8": 227129155,
-    "numeric": "&#12379;"
+    "kana": "せ"
   },
   {
     "syllabary": "hiragana",
@@ -159,10 +117,7 @@
     "group": "S",
     "order": "o",
     "romaji": "so",
-    "kana": "そ",
-    "unicode": 12381,
-    "utf-8": 227129157,
-    "numeric": "&#12381;"
+    "kana": "そ"
   },
   {
     "syllabary": "hiragana",
@@ -170,10 +125,7 @@
     "group": "T",
     "order": "a",
     "romaji": "ta",
-    "kana": "た",
-    "unicode": 12383,
-    "utf-8": 227129159,
-    "numeric": "&#12383;"
+    "kana": "た"
   },
   {
     "syllabary": "hiragana",
@@ -181,10 +133,7 @@
     "group": "T",
     "order": "i",
     "romaji": "chi",
-    "kana": "ち",
-    "unicode": 12385,
-    "utf-8": 227129161,
-    "numeric": "&#12385;"
+    "kana": "ち"
   },
   {
     "syllabary": "hiragana",
@@ -192,10 +141,7 @@
     "group": "T",
     "order": "u",
     "romaji": "tsu",
-    "kana": "つ",
-    "unicode": 12388,
-    "utf-8": 227129164,
-    "numeric": "&#12388;"
+    "kana": "つ"
   },
   {
     "syllabary": "hiragana",
@@ -203,10 +149,7 @@
     "group": "T",
     "order": "e",
     "romaji": "te",
-    "kana": "て",
-    "unicode": 12390,
-    "utf-8": 227129166,
-    "numeric": "&#12390;"
+    "kana": "て"
   },
   {
     "syllabary": "hiragana",
@@ -214,10 +157,7 @@
     "group": "T",
     "order": "o",
     "romaji": "to",
-    "kana": "と",
-    "unicode": 12392,
-    "utf-8": 227129168,
-    "numeric": "&#12392;"
+    "kana": "と"
   },
   {
     "syllabary": "hiragana",
@@ -225,10 +165,7 @@
     "group": "N",
     "order": "a",
     "romaji": "na",
-    "kana": "な",
-    "unicode": 12394,
-    "utf-8": 227129170,
-    "numeric": "&#12394;"
+    "kana": "な"
   },
   {
     "syllabary": "hiragana",
@@ -236,10 +173,7 @@
     "group": "N",
     "order": "i",
     "romaji": "ni",
-    "kana": "に",
-    "unicode": 12395,
-    "utf-8": 227129171,
-    "numeric": "&#12395;"
+    "kana": "に"
   },
   {
     "syllabary": "hiragana",
@@ -247,10 +181,7 @@
     "group": "N",
     "order": "u",
     "romaji": "nu",
-    "kana": "ぬ",
-    "unicode": 12396,
-    "utf-8": 227129172,
-    "numeric": "&#12396;"
+    "kana": "ぬ"
   },
   {
     "syllabary": "hiragana",
@@ -258,10 +189,7 @@
     "group": "N",
     "order": "e",
     "romaji": "ne",
-    "kana": "ね",
-    "unicode": 12397,
-    "utf-8": 227129173,
-    "numeric": "&#12397;"
+    "kana": "ね"
   },
   {
     "syllabary": "hiragana",
@@ -269,10 +197,7 @@
     "group": "N",
     "order": "o",
     "romaji": "no",
-    "kana": "の",
-    "unicode": 12398,
-    "utf-8": 227129174,
-    "numeric": "&#12398;"
+    "kana": "の"
   },
   {
     "syllabary": "hiragana",
@@ -280,10 +205,7 @@
     "group": "H",
     "order": "a",
     "romaji": "ha",
-    "kana": "は",
-    "unicode": 12399,
-    "utf-8": 227129175,
-    "numeric": "&#12399;"
+    "kana": "は"
   },
   {
     "syllabary": "hiragana",
@@ -291,10 +213,7 @@
     "group": "H",
     "order": "i",
     "romaji": "hi",
-    "kana": "ひ",
-    "unicode": 12402,
-    "utf-8": 227129178,
-    "numeric": "&#12402;"
+    "kana": "ひ"
   },
   {
     "syllabary": "hiragana",
@@ -302,10 +221,7 @@
     "group": "H",
     "order": "u",
     "romaji": "fu",
-    "kana": "ふ",
-    "unicode": 12405,
-    "utf-8": 227129181,
-    "numeric": "&#12405;"
+    "kana": "ふ"
   },
   {
     "syllabary": "hiragana",
@@ -313,10 +229,7 @@
     "group": "H",
     "order": "e",
     "romaji": "he",
-    "kana": "へ",
-    "unicode": 12408,
-    "utf-8": 227129184,
-    "numeric": "&#12408;"
+    "kana": "へ"
   },
   {
     "syllabary": "hiragana",
@@ -324,10 +237,7 @@
     "group": "H",
     "order": "o",
     "romaji": "ho",
-    "kana": "ほ",
-    "unicode": 12411,
-    "utf-8": 227129187,
-    "numeric": "&#12411;"
+    "kana": "ほ"
   },
   {
     "syllabary": "hiragana",
@@ -335,10 +245,7 @@
     "group": "M",
     "order": "a",
     "romaji": "ma",
-    "kana": "ま",
-    "unicode": 12414,
-    "utf-8": 227129190,
-    "numeric": "&#12414;"
+    "kana": "ま"
   },
   {
     "syllabary": "hiragana",
@@ -346,10 +253,7 @@
     "group": "M",
     "order": "i",
     "romaji": "mi",
-    "kana": "み",
-    "unicode": 12415,
-    "utf-8": 227129191,
-    "numeric": "&#12415;"
+    "kana": "み"
   },
   {
     "syllabary": "hiragana",
@@ -357,10 +261,7 @@
     "group": "M",
     "order": "u",
     "romaji": "mu",
-    "kana": "む",
-    "unicode": 12416,
-    "utf-8": 227130128,
-    "numeric": "&#12416;"
+    "kana": "む"
   },
   {
     "syllabary": "hiragana",
@@ -368,10 +269,7 @@
     "group": "M",
     "order": "e",
     "romaji": "me",
-    "kana": "め",
-    "unicode": 12417,
-    "utf-8": 227130129,
-    "numeric": "&#12417;"
+    "kana": "め"
   },
   {
     "syllabary": "hiragana",
@@ -379,10 +277,7 @@
     "group": "M",
     "order": "o",
     "romaji": "mo",
-    "kana": "も",
-    "unicode": 12418,
-    "utf-8": 227130130,
-    "numeric": "&#12418;"
+    "kana": "も"
   },
   {
     "syllabary": "hiragana",
@@ -390,10 +285,7 @@
     "group": "Y",
     "order": "a",
     "romaji": "ya",
-    "kana": "や",
-    "unicode": 12420,
-    "utf-8": 227130132,
-    "numeric": "&#12420;"
+    "kana": "や"
   },
   {
     "syllabary": "hiragana",
@@ -401,10 +293,7 @@
     "group": "Y",
     "order": "u",
     "romaji": "yu",
-    "kana": "ゆ",
-    "unicode": 12422,
-    "utf-8": 227130134,
-    "numeric": "&#12422;"
+    "kana": "ゆ"
   },
   {
     "syllabary": "hiragana",
@@ -412,10 +301,7 @@
     "group": "Y",
     "order": "o",
     "romaji": "yo",
-    "kana": "よ",
-    "unicode": 12423,
-    "utf-8": 227130135,
-    "numeric": "&#12423;"
+    "kana": "よ"
   },
   {
     "syllabary": "hiragana",
@@ -423,10 +309,7 @@
     "group": "R",
     "order": "a",
     "romaji": "ra",
-    "kana": "ら",
-    "unicode": 12425,
-    "utf-8": 227130137,
-    "numeric": "&#12425;"
+    "kana": "ら"
   },
   {
     "syllabary": "hiragana",
@@ -434,10 +317,7 @@
     "group": "R",
     "order": "i",
     "romaji": "ri",
-    "kana": "り",
-    "unicode": 12426,
-    "utf-8": 227130138,
-    "numeric": "&#12426;"
+    "kana": "り"
   },
   {
     "syllabary": "hiragana",
@@ -445,10 +325,7 @@
     "group": "R",
     "order": "u",
     "romaji": "ru",
-    "kana": "る",
-    "unicode": 12427,
-    "utf-8": 227130139,
-    "numeric": "&#12427;"
+    "kana": "る"
   },
   {
     "syllabary": "hiragana",
@@ -456,10 +333,7 @@
     "group": "R",
     "order": "e",
     "romaji": "re",
-    "kana": "れ",
-    "unicode": 12428,
-    "utf-8": 227130140,
-    "numeric": "&#12428;"
+    "kana": "れ"
   },
   {
     "syllabary": "hiragana",
@@ -467,10 +341,7 @@
     "group": "R",
     "order": "o",
     "romaji": "ro",
-    "kana": "ろ",
-    "unicode": 12429,
-    "utf-8": 227130141,
-    "numeric": "&#12429;"
+    "kana": "ろ"
   },
   {
     "syllabary": "hiragana",
@@ -478,10 +349,7 @@
     "group": "W",
     "order": "a",
     "romaji": "wa",
-    "kana": "わ",
-    "unicode": 12431,
-    "utf-8": 227130143,
-    "numeric": "&#12431;"
+    "kana": "わ"
   },
   {
     "syllabary": "hiragana",
@@ -489,10 +357,7 @@
     "group": "W",
     "order": "o",
     "romaji": "wo",
-    "kana": "を",
-    "unicode": 12434,
-    "utf-8": 227130146,
-    "numeric": "&#12434;"
+    "kana": "を"
   },
   {
     "syllabary": "hiragana",
@@ -500,10 +365,7 @@
     "group": "*",
     "order": "n",
     "romaji": "n",
-    "kana": "ん",
-    "unicode": 12435,
-    "utf-8": 227130147,
-    "numeric": "&#12435;"
+    "kana": "ん"
   },
   {
     "syllabary": "hiragana",
@@ -511,10 +373,7 @@
     "group": "K",
     "order": "ya",
     "romaji": "kya",
-    "kana": "きゃ",
-    "unicode": [12365, 12419],
-    "utf-8": [227129141, 227130131],
-    "numeric": ["&#12365;", "&#12419;"]
+    "kana": "きゃ"
   },
   {
     "syllabary": "hiragana",
@@ -522,10 +381,7 @@
     "group": "K",
     "order": "yu",
     "romaji": "kyu",
-    "kana": "きゅ",
-    "unicode": [12365, 12421],
-    "utf-8": [227129141, 227130133],
-    "numeric": ["&#12365;", "&#12421;"]
+    "kana": "きゅ"
   },
   {
     "syllabary": "hiragana",
@@ -533,10 +389,7 @@
     "group": "K",
     "order": "yo",
     "romaji": "kyo",
-    "kana": "きょ",
-    "unicode": [12365, 12423],
-    "utf-8": [227129141, 227130135],
-    "numeric": ["&#12365;", "&#12423;"]
+    "kana": "きょ"
   },
   {
     "syllabary": "hiragana",
@@ -544,10 +397,7 @@
     "group": "S",
     "order": "ya",
     "romaji": "sha",
-    "kana": "しゃ",
-    "unicode": [12375, 12419],
-    "utf-8": [227129151, 227130131],
-    "numeric": ["&#12375;", "&#12419;"]
+    "kana": "しゃ"
   },
   {
     "syllabary": "hiragana",
@@ -555,10 +405,7 @@
     "group": "S",
     "order": "yu",
     "romaji": "shu",
-    "kana": "しゅ",
-    "unicode": [12375, 12421],
-    "utf-8": [227129151, 227130133],
-    "numeric": ["&#12375;", "&#12421;"]
+    "kana": "しゅ"
   },
   {
     "syllabary": "hiragana",
@@ -566,10 +413,7 @@
     "group": "S",
     "order": "yo",
     "romaji": "sho",
-    "kana": "しょ",
-    "unicode": [12375, 12423],
-    "utf-8": [227129151, 227130135],
-    "numeric": ["&#12375;", "&#12423;"]
+    "kana": "しょ"
   },
   {
     "syllabary": "hiragana",
@@ -577,10 +421,7 @@
     "group": "T",
     "order": "ya",
     "romaji": "cha",
-    "kana": "ちゃ",
-    "unicode": [12385, 12419],
-    "utf-8": [227129161, 227130131],
-    "numeric": ["&#12385;", "&#12419;"]
+    "kana": "ちゃ"
   },
   {
     "syllabary": "hiragana",
@@ -588,10 +429,7 @@
     "group": "T",
     "order": "yu",
     "romaji": "chu",
-    "kana": "ちゅ",
-    "unicode": [12385, 12421],
-    "utf-8": [227129161, 227130133],
-    "numeric": ["&#12385;", "&#12421;"]
+    "kana": "ちゅ"
   },
   {
     "syllabary": "hiragana",
@@ -599,10 +437,7 @@
     "group": "T",
     "order": "yo",
     "romaji": "cho",
-    "kana": "ちょ",
-    "unicode": [12385, 12423],
-    "utf-8": [227129161, 227130135],
-    "numeric": ["&#12385;", "&#12423;"]
+    "kana": "ちょ"
   },
   {
     "syllabary": "hiragana",
@@ -610,10 +445,7 @@
     "group": "N",
     "order": "ya",
     "romaji": "nya",
-    "kana": "にゃ",
-    "unicode": [12395, 12419],
-    "utf-8": [227129171, 227130131],
-    "numeric": ["&#12395;", "&#12419;"]
+    "kana": "にゃ"
   },
   {
     "syllabary": "hiragana",
@@ -621,10 +453,7 @@
     "group": "N",
     "order": "yu",
     "romaji": "nyu",
-    "kana": "にゅ",
-    "unicode": [12395, 12421],
-    "utf-8": [227129171, 227130133],
-    "numeric": ["&#12395;", "&#12421;"]
+    "kana": "にゅ"
   },
   {
     "syllabary": "hiragana",
@@ -632,10 +461,7 @@
     "group": "N",
     "order": "yo",
     "romaji": "nyo",
-    "kana": "にょ",
-    "unicode": [12395, 12423],
-    "utf-8": [227129171, 227130135],
-    "numeric": ["&#12395;", "&#12423;"]
+    "kana": "にょ"
   },
   {
     "syllabary": "hiragana",
@@ -643,10 +469,7 @@
     "group": "H",
     "order": "ya",
     "romaji": "hya",
-    "kana": "ひゃ",
-    "unicode": [12402, 12419],
-    "utf-8": [227129178, 227130131],
-    "numeric": ["&#12402;", "&#12419;"]
+    "kana": "ひゃ"
   },
   {
     "syllabary": "hiragana",
@@ -654,10 +477,7 @@
     "group": "H",
     "order": "yu",
     "romaji": "hyu",
-    "kana": "ひゅ",
-    "unicode": [12402, 12421],
-    "utf-8": [227129178, 227130133],
-    "numeric": ["&#12402;", "&#12421;"]
+    "kana": "ひゅ"
   },
   {
     "syllabary": "hiragana",
@@ -665,10 +485,7 @@
     "group": "H",
     "order": "yo",
     "romaji": "hyo",
-    "kana": "ひょ",
-    "unicode": [12402, 12423],
-    "utf-8": [227129178, 227130135],
-    "numeric": ["&#12402;", "&#12423;"]
+    "kana": "ひょ"
   },
   {
     "syllabary": "hiragana",
@@ -676,10 +493,7 @@
     "group": "M",
     "order": "ya",
     "romaji": "mya",
-    "kana": "みゃ",
-    "unicode": [12415, 12419],
-    "utf-8": [227129191, 227130131],
-    "numeric": ["&#12415;", "&#12419;"]
+    "kana": "みゃ"
   },
   {
     "syllabary": "hiragana",
@@ -687,10 +501,7 @@
     "group": "M",
     "order": "yu",
     "romaji": "myu",
-    "kana": "みゅ",
-    "unicode": [12415, 12421],
-    "utf-8": [227129191, 227130133],
-    "numeric": ["&#12415;", "&#12421;"]
+    "kana": "みゅ"
   },
   {
     "syllabary": "hiragana",
@@ -698,10 +509,7 @@
     "group": "M",
     "order": "yo",
     "romaji": "myo",
-    "kana": "みょ",
-    "unicode": [12415, 12423],
-    "utf-8": [227129191, 227130135],
-    "numeric": ["&#12415;", "&#12423;"]
+    "kana": "みょ"
   },
   {
     "syllabary": "hiragana",
@@ -709,10 +517,7 @@
     "group": "R",
     "order": "ya",
     "romaji": "rya",
-    "kana": "りゃ",
-    "unicode": [12426, 12419],
-    "utf-8": [227130138, 227130131],
-    "numeric": ["&#12426;", "&#12419;"]
+    "kana": "りゃ"
   },
   {
     "syllabary": "hiragana",
@@ -720,10 +525,7 @@
     "group": "R",
     "order": "yu",
     "romaji": "ryu",
-    "kana": "りゅ",
-    "unicode": [12426, 12421],
-    "utf-8": [227130138, 227130133],
-    "numeric": ["&#12426;", "&#12421;"]
+    "kana": "りゅ"
   },
   {
     "syllabary": "hiragana",
@@ -731,10 +533,7 @@
     "group": "R",
     "order": "yo",
     "romaji": "ryo",
-    "kana": "りょ",
-    "unicode": [12426, 12423],
-    "utf-8": [227130138, 227130135],
-    "numeric": ["&#12426;", "&#12423;"]
+    "kana": "りょ"
   },
   {
     "syllabary": "hiragana",
@@ -742,10 +541,7 @@
     "group": "G",
     "order": "a",
     "romaji": "ga",
-    "kana": "が",
-    "unicode": [12363, 12441],
-    "utf-8": [227129139, 343202231],
-    "numeric": ["&#12363", "&#12441;"]
+    "kana": "が"
   },
   {
     "syllabary": "hiragana",
@@ -753,10 +549,7 @@
     "group": "G",
     "order": "i",
     "romaji": "gi",
-    "kana": "ぎ",
-    "unicode": [12365, 12441],
-    "utf-8": [227129139, 343202231],
-    "numeric": ["&#12365;", "&#12441;"]
+    "kana": "ぎ"
   },
   {
     "syllabary": "hiragana",
@@ -764,10 +557,7 @@
     "group": "G",
     "order": "u",
     "romaji": "gu",
-    "kana": "ぐ",
-    "unicode": [12367, 12441],
-    "utf-8": [227129143, 343202231],
-    "numeric": ["&#12367;", "&#12441;"]
+    "kana": "ぐ"
   },
   {
     "syllabary": "hiragana",
@@ -775,10 +565,7 @@
     "group": "G",
     "order": "e",
     "romaji": "ge",
-    "kana": "げ",
-    "unicode": [12369, 12441],
-    "utf-8": [227129145, 343202231],
-    "numeric": ["&#12369;", "&#12441;"]
+    "kana": "げ"
   },
   {
     "syllabary": "hiragana",
@@ -786,10 +573,7 @@
     "group": "G",
     "order": "o",
     "romaji": "go",
-    "kana": "ご",
-    "unicode": [12371, 12441],
-    "utf-8": [227129147, 343202231],
-    "numeric": ["&#12371;", "&#12441;"]
+    "kana": "ご"
   },
   {
     "syllabary": "hiragana",
@@ -797,10 +581,7 @@
     "group": "Z",
     "order": "a",
     "romaji": "za",
-    "kana": "ざ",
-    "unicode": [12373, 12441],
-    "utf-8": [227129149, 343202231],
-    "numeric": ["&#12373;", "&#12441;"]
+    "kana": "ざ"
   },
   {
     "syllabary": "hiragana",
@@ -808,10 +589,7 @@
     "group": "Z",
     "order": "i",
     "romaji": "ji",
-    "kana": "じ",
-    "unicode": [12375, 12441],
-    "utf-8": [227129151, 343202231],
-    "numeric": ["&#12375;", "&#12441;"]
+    "kana": "じ"
   },
   {
     "syllabary": "hiragana",
@@ -819,10 +597,7 @@
     "group": "Z",
     "order": "u",
     "romaji": "zu",
-    "kana": "ず",
-    "unicode": [12377, 12441],
-    "utf-8": [227129153, 343202231],
-    "numeric": ["&#12377;", "&#12441;"]
+    "kana": "ず"
   },
   {
     "syllabary": "hiragana",
@@ -830,10 +605,7 @@
     "group": "Z",
     "order": "e",
     "romaji": "ze",
-    "kana": "ぜ",
-    "unicode": [12379, 12441],
-    "utf-8": [227129155, 343202231],
-    "numeric": ["&#12379;", "&#12441;"]
+    "kana": "ぜ"
   },
   {
     "syllabary": "hiragana",
@@ -841,10 +613,7 @@
     "group": "Z",
     "order": "o",
     "romaji": "zo",
-    "kana": "ぞ",
-    "unicode": [12381, 12441],
-    "utf-8": [227129157, 343202231],
-    "numeric": ["&#12381;", "&#12441;"]
+    "kana": "ぞ"
   },
   {
     "syllabary": "hiragana",
@@ -852,10 +621,7 @@
     "group": "D",
     "order": "a",
     "romaji": "da",
-    "kana": "だ",
-    "unicode": [12383, 12441],
-    "utf-8": [227129159, 343202231],
-    "numeric": ["&#12383;", "&#12441;"]
+    "kana": "だ"
   },
   {
     "syllabary": "hiragana",
@@ -863,10 +629,7 @@
     "group": "D",
     "order": "i",
     "romaji": "ji",
-    "kana": "ぢ",
-    "unicode": [12385, 12441],
-    "utf-8": [227129161, 343202231],
-    "numeric": ["&#12385;", "&#12441;"]
+    "kana": "ぢ"
   },
   {
     "syllabary": "hiragana",
@@ -874,10 +637,7 @@
     "group": "D",
     "order": "u",
     "romaji": "zu",
-    "kana": "づ",
-    "unicode": [12388, 12441],
-    "utf-8": [227129164, 343202231],
-    "numeric": ["&#12388;", "&#12441;"]
+    "kana": "づ"
   },
   {
     "syllabary": "hiragana",
@@ -885,10 +645,7 @@
     "group": "D",
     "order": "e",
     "romaji": "de",
-    "kana": "で",
-    "unicode": [12390, 12441],
-    "utf-8": [227129166, 343202231],
-    "numeric": ["&#12390;", "&#12441;"]
+    "kana": "で"
   },
   {
     "syllabary": "hiragana",
@@ -896,10 +653,7 @@
     "group": "D",
     "order": "o",
     "romaji": "do",
-    "kana": "ど",
-    "unicode": [12392, 12441],
-    "utf-8": [227129168, 343202231],
-    "numeric": ["&#12392;", "&#12441;"]
+    "kana": "ど"
   },
   {
     "syllabary": "hiragana",
@@ -907,10 +661,7 @@
     "group": "B",
     "order": "a",
     "romaji": "ba",
-    "kana": "ば",
-    "unicode": [12399, 12441],
-    "utf-8": [227129175, 343202231],
-    "numeric": ["&#12399;", "&#12441;"]
+    "kana": "ば"
   },
   {
     "syllabary": "hiragana",
@@ -918,10 +669,7 @@
     "group": "B",
     "order": "i",
     "romaji": "bi",
-    "kana": "び",
-    "unicode": [12402, 12441],
-    "utf-8": [227129178, 343202231],
-    "numeric": ["&#12402;", "&#12441;"]
+    "kana": "び"
   },
   {
     "syllabary": "hiragana",
@@ -929,10 +677,7 @@
     "group": "B",
     "order": "u",
     "romaji": "bu",
-    "kana": "ぶ",
-    "unicode": [12405, 12441],
-    "utf-8": [227129181, 343202231],
-    "numeric": ["&#12405;", "&#12441;"]
+    "kana": "ぶ"
   },
   {
     "syllabary": "hiragana",
@@ -940,10 +685,7 @@
     "group": "B",
     "order": "e",
     "romaji": "be",
-    "kana": "べ",
-    "unicode": [12408, 12441],
-    "utf-8": [227129184, 343202231],
-    "numeric": ["&#12408;", "&#12441;"]
+    "kana": "べ"
   },
   {
     "syllabary": "hiragana",
@@ -951,10 +693,7 @@
     "group": "B",
     "order": "o",
     "romaji": "bo",
-    "kana": "ぼ",
-    "unicode": [12411, 12441],
-    "utf-8": [227129187, 343202231],
-    "numeric": ["&#12411;", "&#12441;"]
+    "kana": "ぼ"
   },
   {
     "syllabary": "hiragana",
@@ -962,10 +701,7 @@
     "group": "P",
     "order": "a",
     "romaji": "pa",
-    "kana": "ぱ",
-    "unicode": [12399, 12442],
-    "utf-8": [227129175, 343202232],
-    "numeric": ["&#12399;", "&#12442;"]
+    "kana": "ぱ"
   },
   {
     "syllabary": "hiragana",
@@ -973,10 +709,7 @@
     "group": "P",
     "order": "i",
     "romaji": "pi",
-    "kana": "ぴ",
-    "unicode": [12402, 12442],
-    "utf-8": [227129178, 343202232],
-    "numeric": ["&#12402;", "&#12442;"]
+    "kana": "ぴ"
   },
   {
     "syllabary": "hiragana",
@@ -984,10 +717,7 @@
     "group": "P",
     "order": "u",
     "romaji": "pu",
-    "kana": "ぷ",
-    "unicode": [12405, 12441],
-    "utf-8": [227129181, 343202231],
-    "numeric": ["&#12405;", "&#12441;"]
+    "kana": "ぷ"
   },
   {
     "syllabary": "hiragana",
@@ -995,10 +725,7 @@
     "group": "P",
     "order": "e",
     "romaji": "pe",
-    "kana": "ぺ",
-    "unicode": [12408, 12442],
-    "utf-8": [227129184, 343202232],
-    "numeric": ["&#12408;", "&#12442;"]
+    "kana": "ぺ"
   },
   {
     "syllabary": "hiragana",
@@ -1006,10 +733,7 @@
     "group": "P",
     "order": "o",
     "romaji": "po",
-    "kana": "ぽ",
-    "unicode": [12411, 12442],
-    "utf-8": [227129187, 343202232],
-    "numeric": ["&#12411;", "&#12442;"]
+    "kana": "ぽ"
   },
   {
     "syllabary": "hiragana",
@@ -1017,10 +741,7 @@
     "group": "G",
     "order": "ya",
     "romaji": "gya",
-    "kana": "ぎゃ",
-    "unicode": [12365, 12441, 12419],
-    "utf-8": [227129141, 343202231, 227130131],
-    "numeric": ["&#12365", "&#12441;", "&#12419;"]
+    "kana": "ぎゃ"
   },
   {
     "syllabary": "hiragana",
@@ -1028,10 +749,7 @@
     "group": "G",
     "order": "yu",
     "romaji": "gyu",
-    "kana": "ぎゅ",
-    "unicode": [12365, 12441, 12421],
-    "utf-8": [227129141, 343202231, 227130133],
-    "numeric": ["&#12365;", "&#12441;", "&#12421;"]
+    "kana": "ぎゅ"
   },
   {
     "syllabary": "hiragana",
@@ -1039,10 +757,7 @@
     "group": "G",
     "order": "yo",
     "romaji": "gyo",
-    "kana": "ぎょ",
-    "unicode": [12365, 12441, 12423],
-    "utf-8": [227129141, 343202231, 227130135],
-    "numeric": ["&#12365;", "&#12441;", "&#12423;"]
+    "kana": "ぎょ"
   },
   {
     "syllabary": "hiragana",
@@ -1050,10 +765,7 @@
     "group": "Z",
     "order": "ya",
     "romaji": "ja",
-    "kana": "じゃ",
-    "unicode": [12375, 12441, 12419],
-    "utf-8": [227129151, 343202231, 227130131],
-    "numeric": ["&#12363", "&#12441;", "&#12419;"]
+    "kana": "じゃ"
   },
   {
     "syllabary": "hiragana",
@@ -1061,10 +773,7 @@
     "group": "Z",
     "order": "yu",
     "romaji": "ju",
-    "kana": "じゅ",
-    "unicode": [12375, 12441, 12421],
-    "utf-8": [227129151, 343202231, 227130133],
-    "numeric": ["&#12365;", "&#12441;", "&#12421;"]
+    "kana": "じゅ"
   },
   {
     "syllabary": "hiragana",
@@ -1072,10 +781,7 @@
     "group": "Z",
     "order": "yo",
     "romaji": "jo",
-    "kana": "じょ",
-    "unicode": [12375, 12441, 12423],
-    "utf-8": [227129151, 343202231, 227130135],
-    "numeric": ["&#12365;", "&#12441;", "&#12423;"]
+    "kana": "じょ"
   },
   {
     "syllabary": "hiragana",
@@ -1083,10 +789,7 @@
     "group": "D",
     "order": "ya",
     "romaji": "ja",
-    "kana": "ぢゃ",
-    "unicode": [12385, 12441, 12419],
-    "utf-8": [227129161, 343202231, 227130131],
-    "numeric": ["&#12385", "&#12441;", "&#12419;"]
+    "kana": "ぢゃ"
   },
   {
     "syllabary": "hiragana",
@@ -1094,10 +797,7 @@
     "group": "D",
     "order": "yu",
     "romaji": "ju",
-    "kana": "ぢゅ",
-    "unicode": [12385, 12441, 12421],
-    "utf-8": [227129161, 343202231, 227130133],
-    "numeric": ["&#12385;", "&#12441;", "&#12421;"]
+    "kana": "ぢゅ"
   },
   {
     "syllabary": "hiragana",
@@ -1105,10 +805,7 @@
     "group": "D",
     "order": "yo",
     "romaji": "jo",
-    "kana": "ぢょ",
-    "unicode": [12385, 12441, 12423],
-    "utf-8": [227129161, 343202231, 227130135],
-    "numeric": ["&#12385;", "&#12441;", "&#12423;"]
+    "kana": "ぢょ"
   },
   {
     "syllabary": "hiragana",
@@ -1116,10 +813,7 @@
     "group": "B",
     "order": "ya",
     "romaji": "bya",
-    "kana": "びゃ",
-    "unicode": [12402, 12441, 12419],
-    "utf-8": [227129178, 343202231, 227130131],
-    "numeric": ["&#12402", "&#12441;", "&#12419;"]
+    "kana": "びゃ"
   },
   {
     "syllabary": "hiragana",
@@ -1127,21 +821,15 @@
     "group": "B",
     "order": "yu",
     "romaji": "byu",
-    "kana": "びゅ",
-    "unicode": [12402, 12441, 12421],
-    "utf-8": [227129178, 343202231, 227130133],
-    "numeric": ["&#12402;", "&#12441;", "&#12421;"]
+    "kana": "びゅ"
   },
   {
     "syllabary": "hiragana",
     "family": "digraphs&diacritics",
     "group": "B",
     "order": "yo",
-    "romaji": "pyo",
-    "kana": "ぴょ",
-    "unicode": [12402, 12442, 12423],
-    "utf-8": [227129178, 343202232, 227130135],
-    "numeric": ["&#12402;", "&#12442;", "&#12423;"]
+    "romaji": "byo",
+    "kana": "ぴょ"
   },
   {
     "syllabary": "hiragana",
@@ -1149,10 +837,7 @@
     "group": "P",
     "order": "ya",
     "romaji": "pya",
-    "kana": "ぴゃ",
-    "unicode": [12402, 12442, 12419],
-    "utf-8": [227129178, 343202232, 227130131],
-    "numeric": ["&#12402", "&#12442;", "&#12419;"]
+    "kana": "ぴゃ"
   },
   {
     "syllabary": "hiragana",
@@ -1160,10 +845,7 @@
     "group": "P",
     "order": "yu",
     "romaji": "pyu",
-    "kana": "ぴゅ",
-    "unicode": [12402, 12442, 12421],
-    "utf-8": [227129178, 343202232, 227130133],
-    "numeric": ["&#12402;", "&#12421;", "&#12421;"]
+    "kana": "ぴゅ"
   },
   {
     "syllabary": "hiragana",
@@ -1171,9 +853,6 @@
     "group": "P",
     "order": "yo",
     "romaji": "pyo",
-    "kana": "びょ",
-    "unicode": [12402, 12441, 12423],
-    "utf-8": [227129178, 343202231, 227130135],
-    "numeric": ["&#12402;", "&#12441;", "&#12423;"]
+    "kana": "びょ"
   }
 ]
