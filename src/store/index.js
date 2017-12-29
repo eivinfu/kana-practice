@@ -14,6 +14,7 @@ const store = new Vuex.Store({
   state: {
     kanas: hiragana.concat(katakana),
     filters: {},
+    checkedFilters: [],
   },
   getters,
   mutations,
