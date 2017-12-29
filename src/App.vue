@@ -3,16 +3,17 @@
     <h1>Welcome!</h1>
     <settings></settings>
   </div>
-
 </template>
 
 <script>
 import Settings from './Settings.vue'
+import Practise from './Practise.vue'
 
 export default {
   name: 'app',
   components: {
     Settings,
+    Practise,
   }
 }
 </script>
@@ -24,9 +25,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 3rem;
-  padding-bottom: 2rem;
-  border: 1px solid black;
-  border-radius: 1rem;
 }
 </style>
