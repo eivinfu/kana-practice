@@ -12,6 +12,7 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
+    view: 'settings',
     kanas: hiragana.concat(katakana),
     filters: [],
     fonts: ['MS Gothic'],

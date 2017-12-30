@@ -1,4 +1,5 @@
 export default {
+  view: state => state.view,
   kanas: state => state.kanas,
   filters: state => state.filters,
   filterObject: (state, { filters }) => {

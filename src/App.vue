@@ -1,19 +1,32 @@
 <template>
   <div id="app">
-    <h1>Welcome!</h1>
-    <settings></settings>
+    <nav-bar></nav-bar>
+    <info v-if="view === 'info'"></info>
+    <settings v-else-if="view === 'settings'"></settings>
+    <practise v-else-if="view === 'practise'"></practise>
   </div>
 </template>
 
 <script>
+import NavBar from './NavBar.vue'
+import Info from './Info.vue'
 import Settings from './Settings.vue'
 import Practise from './Practise.vue'
 
 export default {
   name: 'app',
   components: {
+    NavBar,
+    Info,
     Settings,
     Practise,
+  },
+  computed: {
+    view: {
+      get() {
+        return this.$store.getters.view
+      }
+    }
   }
 }
 </script>
