@@ -8,10 +8,10 @@
       v-model="checkedFilters"
     > Hiragana
     <input
-    type="checkbox"
-    name="katakana"
-    value="syllabary:katakana"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="katakana"
+      value="syllabary:katakana"
+      v-model="checkedFilters"
     > Katakana
     <h3>Family</h3>
     <input
@@ -21,10 +21,10 @@
       v-model="checkedFilters"
     > Monographs
     <input
-    type="checkbox"
-    name="digraphs"
-    value="family:digraphs"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="digraphs"
+      value="family:digraphs"
+      v-model="checkedFilters"
     > Digraphs
     <br>
     <input
@@ -34,83 +34,108 @@
       v-model="checkedFilters"
     > Diacritics
     <input
-    type="checkbox"
-    name="digraphs&diacritics"
-    value="family:digraphs&diacritics"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="digraphs&diacritics"
+      value="family:digraphs&diacritics"
+      v-model="checkedFilters"
     > Digraphs with diacritics
     <h3>Group</h3>
     <input
-    type="checkbox"
-    name="Ø"
-    value="group:Ø"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="Ø"
+      value="group:Ø"
+      v-model="checkedFilters"
     > Ø (Vowels)
     <input
-    type="checkbox"
-    name="*"
-    value="group:*"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="*"
+      value="group:*"
+      v-model="checkedFilters"
     > * (n)
+    <input
+      type="checkbox"
+      name="K"
+      value="group:K"
+      v-model="checkedFilters"
+    > K
     <br>
     <input
-    type="checkbox"
-    name="K"
-    value="group:K"
-    v-model="checkedFilters"
-    > K
-    <input
-    type="checkbox"
-    name="S"
-    value="group:S"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="S"
+      value="group:S"
+      v-model="checkedFilters"
     > S
     <input
-    type="checkbox"
-    name="T"
-    value="group:T"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="T"
+      value="group:T"
+      v-model="checkedFilters"
     > T
     <input
-    type="checkbox"
-    name="N"
-    value="group:N"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="N"
+      value="group:N"
+      v-model="checkedFilters"
     > N
     <input
-    type="checkbox"
-    name="H"
-    value="group:H"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="H"
+      value="group:H"
+      v-model="checkedFilters"
     > H
+    <br>
     <input
-    type="checkbox"
-    name="M"
-    value="group:M"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="M"
+      value="group:M"
+      v-model="checkedFilters"
     > M
     <input
-    type="checkbox"
-    name="Y"
-    value="group:Y"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="Y"
+      value="group:Y"
+      v-model="checkedFilters"
     > Y
     <input
-    type="checkbox"
-    name="R"
-    value="group:R"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="R"
+      value="group:R"
+      v-model="checkedFilters"
     > R
     <input
-    type="checkbox"
-    name="W"
-    value="group:W"
-    v-model="checkedFilters"
+      type="checkbox"
+      name="W"
+      value="group:W"
+      v-model="checkedFilters"
     > W
+    <h3>Font</h3>
+    <div class="font-preview" style="font-family:MS Gothic">
+      <input
+        type="checkbox"
+        name="font-gothic"
+        value="MS Gothic"
+      > {{ previewKana }}
+    </div>
+    <div class="font-preview" style="font-family:Sazanami Mincho">
+      <input
+        type="checkbox"
+        name="font-sazanami-mincho"
+        value="Sazanami Mincho"
+      > {{ previewKana }}
+    </div>
+    <div class="font-preview" style="font-family:Aoyagi Kouzan">
+      <input
+        type="checkbox"
+        name="font-aoyagi-kouzan"
+        value="Aoyagi Kouzan"
+      > {{ previewKana }}
+    </div>
   </div>
 </template>
 
 <script>
+import hiragana from './assets/hiragana.json'
+
 export default {
   name: 'settings',
   computed: {
@@ -121,11 +146,27 @@ export default {
       set(filters) {
         this.$store.dispatch('updateFilters', filters)
       }
-    }
+    },
+    previewKana() {
+      return 'あいうえおさの'
+    },
   }
 }
 </script>
 
 <style lang="scss" scoped>
-
+  input[type="checkbox"] {
+    margin: 0%;
+    padding: 0%;
+    margin-left: 1%;
+  }
+  #settings {
+    text-align: center;
+  }
+  .font-preview {
+    font-size: 3rem;
+  }
+  #font-sushitar {
+    font-family: Sushitar;
+  }
 </style>

@@ -26,4 +26,14 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+
+@font-face {
+  font-family: 'Aoyagi Kouzan';
+  src: url('./fonts/Aoyagi Kouzan.otf');
+}
+
+@font-face {
+  font-family: 'Sazanami Mincho';
+  src: url('./fonts/Sazanami Mincho.ttf');
+}
 </style>
