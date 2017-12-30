@@ -13,8 +13,8 @@ Vue.use(Vuex)
 const store = new Vuex.Store({
   state: {
     kanas: hiragana.concat(katakana),
-    filters: {},
-    checkedFilters: [],
+    filters: [],
+    fonts: ['MS Gothic'],
   },
   getters,
   mutations,

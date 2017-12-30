@@ -5,108 +5,108 @@
       type="checkbox"
       name="hiragana"
       value="syllabary:hiragana"
-      v-model="checkedFilters"
+      v-model="filters"
     > Hiragana
     <input
       type="checkbox"
       name="katakana"
       value="syllabary:katakana"
-      v-model="checkedFilters"
+      v-model="filters"
     > Katakana
     <h3>Family</h3>
     <input
       type="checkbox"
       name="monographs"
       value="family:monographs"
-      v-model="checkedFilters"
+      v-model="filters"
     > Monographs
     <input
       type="checkbox"
       name="digraphs"
       value="family:digraphs"
-      v-model="checkedFilters"
+      v-model="filters"
     > Digraphs
     <br>
     <input
       type="checkbox"
       name="diacritics"
       value="family:diacritics"
-      v-model="checkedFilters"
+      v-model="filters"
     > Diacritics
     <input
       type="checkbox"
       name="digraphs&diacritics"
       value="family:digraphs&diacritics"
-      v-model="checkedFilters"
+      v-model="filters"
     > Digraphs with diacritics
     <h3>Group</h3>
     <input
       type="checkbox"
       name="Ø"
       value="group:Ø"
-      v-model="checkedFilters"
+      v-model="filters"
     > Ø (Vowels)
     <input
       type="checkbox"
       name="*"
       value="group:*"
-      v-model="checkedFilters"
+      v-model="filters"
     > * (n)
     <input
       type="checkbox"
       name="K"
       value="group:K"
-      v-model="checkedFilters"
+      v-model="filters"
     > K
     <br>
     <input
       type="checkbox"
       name="S"
       value="group:S"
-      v-model="checkedFilters"
+      v-model="filters"
     > S
     <input
       type="checkbox"
       name="T"
       value="group:T"
-      v-model="checkedFilters"
+      v-model="filters"
     > T
     <input
       type="checkbox"
       name="N"
       value="group:N"
-      v-model="checkedFilters"
+      v-model="filters"
     > N
     <input
       type="checkbox"
       name="H"
       value="group:H"
-      v-model="checkedFilters"
+      v-model="filters"
     > H
     <br>
     <input
       type="checkbox"
       name="M"
       value="group:M"
-      v-model="checkedFilters"
+      v-model="filters"
     > M
     <input
       type="checkbox"
       name="Y"
       value="group:Y"
-      v-model="checkedFilters"
+      v-model="filters"
     > Y
     <input
       type="checkbox"
       name="R"
       value="group:R"
-      v-model="checkedFilters"
+      v-model="filters"
     > R
     <input
       type="checkbox"
       name="W"
       value="group:W"
-      v-model="checkedFilters"
+      v-model="filters"
     > W
     <h3>Font</h3>
     <div class="font-preview" style="font-family:MS Gothic">
@@ -114,6 +114,7 @@
         type="checkbox"
         name="font-gothic"
         value="MS Gothic"
+        v-model="fonts"
       > {{ previewKana }}
     </div>
     <div class="font-preview" style="font-family:Sazanami Mincho">
@@ -121,6 +122,7 @@
         type="checkbox"
         name="font-sazanami-mincho"
         value="Sazanami Mincho"
+        v-model="fonts"
       > {{ previewKana }}
     </div>
     <div class="font-preview" style="font-family:Aoyagi Kouzan">
@@ -128,6 +130,7 @@
         type="checkbox"
         name="font-aoyagi-kouzan"
         value="Aoyagi Kouzan"
+        v-model="fonts"
       > {{ previewKana }}
     </div>
   </div>
@@ -139,12 +142,20 @@ import hiragana from './assets/hiragana.json'
 export default {
   name: 'settings',
   computed: {
-    checkedFilters: {
+    filters: {
       get() {
-        return this.$store.getters.checkedFilters
+        return this.$store.getters.filters
       },
       set(filters) {
         this.$store.dispatch('updateFilters', filters)
+      }
+    },
+    fonts: {
+      get() {
+        return this.$store.getters.fonts
+      },
+      set(fonts) {
+        this.$store.dispatch('updateFonts', fonts)
       }
     },
     previewKana() {
