@@ -5,4 +5,7 @@ export default {
   updateFonts({ commit }, fonts) {
     commit('updateFonts', fonts)
   },
+  changeView({ commit }, view) {
+    commit('changeView', view)
+  },
 }

@@ -1,12 +1,24 @@
 <template>
   <div id="navbar">
-    <div id="info" class="navbar-option">
+    <div
+      v-on:click="changeView('info')"
+      v-bind:class="isSelected('info')"
+      id="info"
+      class="navbar-option">
       <h3>Info</h3>
     </div>
-    <div id="settings" class="navbar-option">
+    <div
+      v-on:click="changeView('settings')"
+      v-bind:class="isSelected('settings')"
+      id="settings"
+      class="navbar-option">
       <h3>Settings</h3>
     </div>
-    <div id="practise" class="navbar-option">
+    <div
+      v-on:click="changeView('practise')"
+      v-bind:class="isSelected('practise')"
+      id="practise"
+      class="navbar-option">
       <h3>Practise</h3>
     </div>
   </div>
@@ -15,6 +27,25 @@
 <script>
 export default {
   name: 'navbar',
+  computed: {
+    view: {
+      get() {
+        return this.$store.getters.view
+      }
+    },
+  },
+  methods: {
+    changeView(view) {
+      this.$store.dispatch('changeView', view)
+    },
+    isSelected(view) {
+      if (this.$store.getters.view === view) {
+        return { 'navbar-option--selected': true }
+      } else {
+        return { 'navbar-option--selected': false }
+      }
+    },
+  }
 }
 </script>
 
@@ -29,14 +60,18 @@ export default {
     flex: 0 1 auto;
     padding: 0 2rem;
     margin: 0%;
-    border: 1px solid black;
     display: block;
+    color: azure;
     background-color:lightslategrey;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
+    &:hover,
+    &--selected {
+      background-color: darkslategrey;
+    }
   }
 </style>

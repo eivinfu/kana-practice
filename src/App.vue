@@ -33,6 +33,8 @@ export default {
 
 <style lang="scss">
 #app {
+  padding: 0%;
+  margin: 0%;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -48,5 +50,10 @@ export default {
 @font-face {
   font-family: 'Sazanami Mincho';
   src: url('./fonts/Sazanami Mincho.ttf');
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
 }
 </style>

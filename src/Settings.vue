@@ -159,7 +159,7 @@ export default {
       }
     },
     previewKana() {
-      return 'あいうえおさの'
+      return 'あいうえおさ'
     },
   }
 }
