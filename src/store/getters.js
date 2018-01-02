@@ -21,5 +21,11 @@ export default {
       })
       return include
     }),
+  practiseKanas: state => state.practiseKanas,
   fonts: state => state.fonts,
+  font: state => state.font,
+  guess: state => state.guess,
+  showAnswer: state => state.showAnswer,
+  correct: state => state.correct,
+  wrong: state => state.wrong,
 }

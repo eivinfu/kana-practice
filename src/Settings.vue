@@ -148,6 +148,8 @@ export default {
       },
       set(filters) {
         this.$store.dispatch('updateFilters', filters)
+        const practiseKanas = this.$store.getters.filteredKanas.sort(() => Math.random() - 0.5)
+        this.$store.dispatch('updatePractiseKanas', practiseKanas)
       }
     },
     fonts: {
@@ -159,7 +161,7 @@ export default {
       }
     },
     previewKana() {
-      return 'あいうえおさ'
+      return 'あいうえお'
     },
   }
 }
@@ -172,6 +174,8 @@ export default {
     margin-left: 1%;
   }
   #settings {
+    margin: 0%;
+    padding: 0%;
     text-align: center;
   }
   .font-preview {
