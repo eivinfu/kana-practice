@@ -5,21 +5,21 @@
       v-bind:class="isSelected('info')"
       id="info"
       class="navbar-option">
-      <h3>Info</h3>
+      <h3>INFO</h3>
     </div>
     <div
       v-on:click="changeView('settings')"
       v-bind:class="isSelected('settings')"
       id="settings"
       class="navbar-option">
-      <h3>Settings</h3>
+      <h3>SETTINGS</h3>
     </div>
     <div
       v-on:click="changeView('practise')"
       v-bind:class="isSelected('practise')"
       id="practise"
       class="navbar-option">
-      <h3>Practise</h3>
+      <h3>PRACTISE</h3>
     </div>
   </div>
 </template>
@@ -61,6 +61,7 @@ export default {
     padding: 0 2rem;
     margin: 0%;
     display: block;
+    text-align: center;
     color: azure;
     background-color:lightslategrey;
     -webkit-touch-callout: none;
