@@ -1,6 +1,10 @@
 <template>
   <div id="info">
-    <h1>INFO</h1>
+    <p>
+      Choose what kana you want to practise under settings.<br>
+      Then under practise type the corresponding romaji,<br>
+      for the displayed kana.
+    </p>
   </div>
 </template>
 
@@ -11,5 +15,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 </style>
