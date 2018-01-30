@@ -628,7 +628,7 @@
     "family": "diacritics",
     "group": "D",
     "order": "i",
-    "romaji": "ji",
+    "romaji": "dzi",
     "kana": "ヂ"
   },
   {
@@ -636,7 +636,7 @@
     "family": "diacritics",
     "group": "D",
     "order": "u",
-    "romaji": "zu",
+    "romaji": "dzu",
     "kana": "ヅ"
   },
   {
@@ -788,7 +788,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "ya",
-    "romaji": "ja",
+    "romaji": "dzya",
     "kana": "ヂャ"
   },
   {
@@ -796,7 +796,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "yu",
-    "romaji": "ju",
+    "romaji": "dzyu",
     "kana": "ヂュ"
   },
   {
@@ -804,7 +804,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "yo",
-    "romaji": "jo",
+    "romaji": "dzyo",
     "kana": "ヂョ"
   },
   {
@@ -854,5 +854,157 @@
     "order": "yo",
     "romaji": "pyo",
     "kana": "ピョ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs&diacritics",
+    "group": "special",
+    "order": "a",
+    "romaji": "va",
+    "kana": "ヴァ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs&diacritics",
+    "group": "special",
+    "order": "i",
+    "romaji": "vi",
+    "kana": "ヴィ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "diacritics",
+    "group": "special",
+    "order": "u",
+    "romaji": "vu",
+    "kana": "ヴ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs&diacritics",
+    "group": "special",
+    "order": "e",
+    "romaji": "ve",
+    "kana": "ヴェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs&diacritics",
+    "group": "special",
+    "order": "o",
+    "romaji": "vo",
+    "kana": "ヴォ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "i",
+    "romaji": "wi",
+    "kana": "ウィ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "e",
+    "romaji": "we",
+    "kana": "ウェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "o",
+    "romaji": "wo",
+    "kana": "ウォ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "a",
+    "romaji": "fa",
+    "kana": "ファ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "i",
+    "romaji": "fi",
+    "kana": "フィ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "e",
+    "romaji": "fe",
+    "kana": "フェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "o",
+    "romaji": "fo",
+    "kana": "フォ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "e",
+    "romaji": "she",
+    "kana": "シェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs&diacritics",
+    "group": "special",
+    "order": "e",
+    "romaji": "je",
+    "kana": "ジェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "e",
+    "romaji": "che",
+    "kana": "チェ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "u",
+    "romaji": "tu",
+    "kana": "トゥ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "i",
+    "romaji": "ti",
+    "kana": "ティ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "u",
+    "romaji": "du",
+    "kana": "ドゥ"
+  },
+  {
+    "syllabary": "katakana",
+    "family": "digraphs",
+    "group": "special",
+    "order": "i",
+    "romaji": "di",
+    "kana": "ディ"
   }
 ]

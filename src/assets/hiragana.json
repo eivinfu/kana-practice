@@ -628,7 +628,7 @@
     "family": "diacritics",
     "group": "D",
     "order": "i",
-    "romaji": "ji",
+    "romaji": "dzi",
     "kana": "ぢ"
   },
   {
@@ -636,7 +636,7 @@
     "family": "diacritics",
     "group": "D",
     "order": "u",
-    "romaji": "zu",
+    "romaji": "dzu",
     "kana": "づ"
   },
   {
@@ -788,7 +788,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "ya",
-    "romaji": "ja",
+    "romaji": "dzya",
     "kana": "ぢゃ"
   },
   {
@@ -796,7 +796,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "yu",
-    "romaji": "ju",
+    "romaji": "dzyu",
     "kana": "ぢゅ"
   },
   {
@@ -804,7 +804,7 @@
     "family": "digraphs&diacritics",
     "group": "D",
     "order": "yo",
-    "romaji": "jo",
+    "romaji": "dzyo",
     "kana": "ぢょ"
   },
   {
