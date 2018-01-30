@@ -107,7 +107,13 @@
       name="W"
       value="group:W"
       v-model="filters"
-    > W
+    > W <br>
+    <input
+      type="checkbox"
+      name="special"
+      value="group:special"
+      v-model="filters"
+    > Special Katakana
     <h3>Font</h3>
     <div class="font-preview" style="font-family:MS Gothic">
       <input
