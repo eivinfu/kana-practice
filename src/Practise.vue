@@ -33,7 +33,7 @@ export default {
       set(guess) {
         const kana = this.practiseKanas[0]
         if(guess.length === kana.romaji.length) {
-          if(guess === kana.romaji) {
+          if(guess.toLowerCase() === kana.romaji) {
             this.$store.dispatch('updateGuess', '')
             this.$store.dispatch('nextKana', !this.showAnswer)
             return
