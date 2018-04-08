@@ -143,8 +143,6 @@
 </template>
 
 <script>
-import hiragana from './assets/hiragana.json'
-
 export default {
   name: 'settings',
   computed: {
