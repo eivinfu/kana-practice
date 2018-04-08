@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import NavBar from './NavBar.vue'
-import Info from './Info.vue'
-import Settings from './Settings.vue'
-import Practise from './Practise.vue'
+import NavBar from './components/NavBar.vue'
+import Info from './components/Info.vue'
+import Settings from './components/Settings.vue'
+import Practise from './components/Practise.vue'
 
 export default {
   name: 'app',
