@@ -1,16 +1,16 @@
 <template>
   <div id="info">
     <p>
-      Choose what kana you want to practise under settings.<br>
-      Then under practise type the corresponding romaji,<br>
+      Choose what kana you want to practise under settings.
+      Then under practise type the corresponding romaji,
       for the displayed kana.
     </p>
     <p>
       This is version 0.0.1, purely a functional demo.
     </p>
     <p>
-      If you don't know the answer just keep typing, <br>
-      the answer will show if your input is the same length <br>
+      If you don't know the answer just keep typing,
+      the answer will show if your input is the same length
       but not the same letters as the correct romaji.
     </p>
   </div>
@@ -23,4 +23,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+  #info {
+    text-align: center;
+    margin: auto;
+  }
 </style>

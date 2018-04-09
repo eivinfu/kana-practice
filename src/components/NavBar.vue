@@ -57,7 +57,8 @@ export default {
   }
 
   .navbar-option {
-    flex: 0 1 auto;
+    width: 5%;
+    flex: 1 1 auto;
     padding: 0 2rem;
     margin: 0%;
     display: block;
