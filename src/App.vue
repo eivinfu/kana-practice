@@ -32,10 +32,6 @@ export default {
 </script>
 
 <style lang="scss">
-* {
-  border: 1px solid black;
-}
-
 body {
   margin: 0%;
   padding: 0%;
