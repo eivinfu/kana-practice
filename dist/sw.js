@@ -4,10 +4,6 @@ const urlsToCache = [
   './index.html',
   './build.js',
   './build.js.map',
-  './manifest.json',
-  './icons/',
-  './Aoyagi Kouzan.otf',
-  './Sazanami Mincho.ttf',
 ]
 
 this.addEventListener('install', (event) => {
