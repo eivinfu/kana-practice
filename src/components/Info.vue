@@ -1,5 +1,5 @@
 <template>
-  <div id="info">
+  <div id="info-container">
     <p>
       Choose what kana you want to practise under settings.
       Then under practise type the corresponding romaji,
@@ -23,7 +23,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  #info {
+  #info-container {
     text-align: center;
     margin: auto;
   }

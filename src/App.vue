@@ -58,7 +58,21 @@ body {
   color: #2c3e50;
 }
 
-@media screen {
-  
+@media (min-width: 500px) {
+  #app {
+    width: 70%;
+  }
+}
+
+@media (min-width: 800px) {
+  #app {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #app {
+    width: 30%;
+  }
 }
 </style>

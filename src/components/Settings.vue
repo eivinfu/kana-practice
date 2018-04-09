@@ -1,5 +1,5 @@
 <template>
-  <div id="settings">
+  <div id="settings-container">
     <h3>Syllabary</h3>
     <input
       type="checkbox"
@@ -177,7 +177,7 @@ export default {
     padding: 0%;
     margin-left: 1%;
   }
-  #settings {
+  #settings-container {
     margin: 0%;
     padding: 0%;
     text-align: center;

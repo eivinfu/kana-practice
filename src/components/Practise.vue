@@ -1,5 +1,5 @@
 <template>
-  <div id="practise">
+  <div id="practise-container">
     <div id="kana" v-bind:style="{ fontFamily: font }">
       {{ practiseKanas[0].kana }}
     </div>
